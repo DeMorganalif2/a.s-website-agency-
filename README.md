@@ -25,6 +25,13 @@ Welcome to the official repository of **CODE-X AS**, a modern, high-performance 
 ## 📂 Project Structure
 
 ```text
+🚀 Live Demo
+Check out the live website: https://codexasweb.netlify.app/
+
+👨‍💻 Team
+Abu Raihan Alif — Co-Founder | Elite Front-End Artist
+
+Julker Naim Sadik — Co-Founder | Web Developer
 codexas/
 ├── photo/              # Project images & team assets
 ├── photo2/             # Icons, Favicons & Manifest files
